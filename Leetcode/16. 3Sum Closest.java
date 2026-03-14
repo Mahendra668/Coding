@@ -1,6 +1,6 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        int n = nums.length;
+        int n = nums.length; 
         
         // Sort the array to enable two-pointer approach
         Arrays.sort(nums);
